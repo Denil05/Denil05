@@ -1,16 +1,61 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Denil Patel</h1>
+<h3 align="center">B.Tech Engineer | 4th Year @ Nirma University | Passionate Developer & Tech Enthusiast</h3>
 
-<!--
-**Denil05/Denil05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Picture (optional) -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/1002387455?v=4" alt="Denil Patel" width="150" height="150" style="border-radius:50%">
+</p>
 
-Here are some ideas to get you started:
+<!-- Typing Animation (optional) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+my+dreams+into+reality.;Let's+build+something+amazing+🚀" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♂️ About Me
+
+- 🎓 Pursuing **B.Tech in Engineering** at **Nirma University** (4th Year)
+- 💻 I love working on open-source projects & learning new technologies
+- 🌱 Currently exploring **[your interest/tech stack]**
+- 💬 Ask me about **Web Development, Competitive Programming, or Python**
+- ⚡ Fun fact: I believe in lifelong learning!
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs,mysql,git,github,linux" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Denil05&show_icons=true&theme=github_dark" alt="Denil's Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Denil05&theme=github-dark" alt="Denil's Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Denil05&theme=github-dark" alt="Denil's Activity Graph" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <!-- Add more social badges as needed -->
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</p>
