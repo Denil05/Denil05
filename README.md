@@ -18,10 +18,8 @@
 
 - 🎓 Pursuing **B.Tech in Engineering** at **Nirma University** (4th Year)
 - 💻 I love working on open-source projects & learning new technologies
-- 🌱 Currently exploring **[your interest/tech stack]**
-- 💬 Ask me about **Web Development, Competitive Programming, or Python**
-- ⚡ Fun fact: I believe in lifelong learning!
-
+- 🌱 Currently exploring **Next.js
+- ⚡ Fun fact: I believe in lifelong learning
 ---
 
 ## 🛠️ Languages & Tools
@@ -32,25 +30,12 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denil05&show_icons=true&theme=github_dark" alt="Denil's Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Denil05&theme=github-dark" alt="Denil's Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Denil05&theme=github-dark" alt="Denil's Activity Graph" />
-</p>
-
----
 
 ## 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:denilvachhani05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/denil-vachhani-968901326/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <!-- Add more social badges as needed -->
 </p>
 
