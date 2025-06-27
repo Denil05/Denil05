@@ -9,7 +9,7 @@
 
 <!-- Typing Animation (optional) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+my+dreams+into+reality.;Let's+build+something+amazing+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+my+dreams+into+reality.;Let's+build+something+amazing!" />
 </p>
 
 ---
@@ -18,18 +18,18 @@
 
 - 🎓 Pursuing **B.Tech in Engineering** at **Nirma University** (4th Year)
 - 💻 I love working on open-source projects & learning new technologies
-- 🌱 Currently exploring **Next.js
+- 🌱 Currently exploring **Next.js**
 - ⚡ Fun fact: I believe in lifelong learning
+
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,monogodb,git,github,tableau,ml" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,tableau,vscode,ml,figma" />
 </p>
 
 ---
-
 
 ## 📫 Connect with Me
 
